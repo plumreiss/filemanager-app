@@ -5,7 +5,7 @@
 ### Docker support
 - Clone repo with
 
-  `git clone --recurse-submodules https://github.com/plumreiss/filemanager-api.git`
+  `git clone --recurse-submodules https://github.com/plumreiss/filemanager-app.git`
 
   or
   
