@@ -1,0 +1,11 @@
+services:
+  server:
+    build: ./filemanager-api
+    ports:
+      - "8000:8000"
+  client:
+    build: ./filemanager-client
+    ports:
+      - "3000:3000"
+    depends_on:
+      - server

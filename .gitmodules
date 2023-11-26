@@ -1,0 +1,6 @@
+[submodule "filemanager-api"]
+	path = filemanager-api
+	url = https://github.com/plumreiss/filemanager-api.git
+[submodule "filemanager-client"]
+	path = filemanager-client
+	url = https://github.com/plumreiss/filemanager-client.git
